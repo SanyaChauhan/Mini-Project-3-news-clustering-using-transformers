@@ -28,11 +28,3 @@ Using **unsupervised learning**, the system clusters similar articles together, 
 The model successfully groups news articles by topic, proving that Transformer embeddings capture **semantic meaning** far better than traditional text representations.
 
 ---
-
-### How to Run
-```bash
-git clone https://github.com/<your-username>/news-clustering-using-transformers.git
-cd news-clustering-using-transformers
-pip install -r requirements.txt
-jupyter notebook Mini_Project_3.ipynb
-
